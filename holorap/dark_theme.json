@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "Figure": {
+      "background_fill_color": "#1C1F28",
+      "border_fill_color": "#1C1F28",
+      "outline_line_color": "#1C1F28",
+      "min_border_left": "400px"
+    },
+    "Grid": {
+      "grid_line_alpha": 0.2,
+      "grid_line_color": "white",
+      "grid_line_width": 1
+    },
+    "Title": {
+      "text_color": "white"
+    },
+    "Axis": {
+      "axis_line_color": "#49483E",
+      "axis_label_text_color": "#888888",
+      "major_label_text_color": "#888888",
+      "major_tick_line_color": "#49483E",
+      "minor_tick_line_color": "#49483E",
+      "axis_label_text_alpha": 0
+    },
+    "Text": {
+      "text_color": "#aaaaaa"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+setup.py
+Holorap.egg-info/PKG-INFO
+Holorap.egg-info/SOURCES.txt
+Holorap.egg-info/dependency_links.txt
+Holorap.egg-info/top_level.txt

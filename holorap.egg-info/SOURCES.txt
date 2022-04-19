@@ -1,0 +1,10 @@
+setup.py
+holorap/__init__.py
+holorap/dark_theme.json
+holorap/holorap.py
+holorap/setting.py
+holorap/white_theme.json
+holorap.egg-info/PKG-INFO
+holorap.egg-info/SOURCES.txt
+holorap.egg-info/dependency_links.txt
+holorap.egg-info/top_level.txt
